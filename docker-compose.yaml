@@ -1,0 +1,9 @@
+services:
+  app:
+    container_name: 7langs_app
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./src/:/workspace/
+    command: sleep infinity
