@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "rust-lang.rust-analyzer",
+    "golang.go",
+    "maelvalais.koka",
+    "koka.language-koka",
+    "kosz78.nim",
+    "gleam.gleam",
+    "ms-vscode.vscode-typescript-next"
+  ]
+}
